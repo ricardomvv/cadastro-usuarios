@@ -1,2 +1,3 @@
 # Projeto Simples Cadastro de Usuários
-• Realização de Testes
+• Implementação de cenários de testes usando o BDD.
+• Automação de Testes usando Selenium WebDriver.
